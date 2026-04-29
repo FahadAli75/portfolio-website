@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Index.css";
+import "../Index.css";
 import { FaCode, FaLaptopCode, FaReact, FaDatabase, FaTools } from "react-icons/fa";
 
 const About = () => {

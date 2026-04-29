@@ -1,5 +1,5 @@
 import React from "react";
-import "./Index.css";
+import "../Index.css";
 import PRO3 from "../assets/PRO3.png";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import { SiVercel } from "react-icons/si";

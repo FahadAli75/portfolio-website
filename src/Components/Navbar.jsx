@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Index.css";
+import "../Index.css";
 import logo from '../assets/logo.png'
 
 

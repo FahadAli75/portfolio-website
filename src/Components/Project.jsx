@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Index.css";
+import "../Index.css";
 import { FaReact, FaHtml5, FaCss3Alt, FaJs } from "react-icons/fa";
 
 const Project = () => {
